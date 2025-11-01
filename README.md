@@ -24,7 +24,7 @@ JavaScript (ES6) — logic and functionality
 ⚙️ How to Run Locally
 
   1. Clone the repository:
-     git clone https://github.com/your-username/Calculator.git
+     git clone https://github.com/ln0001/Calculator.git
      
   3. Open the folder in VS Code or any editor:
      cd Calculator
